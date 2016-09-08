@@ -1,4 +1,5 @@
 click==6.6
 et-xmlfile==1.0.1
 jdcal==1.2
+natsort==5.0.1
 openpyxl==2.3.5
